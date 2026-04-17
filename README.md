@@ -29,7 +29,7 @@ class Aleena:
 
     location    = "Islamabad, Pakistan"
     studying    = "BS Artificial Intelligence @ NUTECH"
-    working     = ["CCRIPT Agency", "Neuralogic"]
+    experience  = ["CCRIPT Agency", "Neuralogic"]
     focus       = ["AI Agents", "LangChain", "Full Stack", "DevOps"]
     status      = "open to new opportunities"
 ```
@@ -96,8 +96,8 @@ class Aleena:
 
 <br/><br/>
 
-*"Talk is cheap. Show me the code." — Linus Torvalds*
+*"Talk is cheap. Show me the code." ~ Linus Torvalds*
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
 
 </div>
