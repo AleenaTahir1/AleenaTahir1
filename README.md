@@ -1,8 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/AleenaTahir1">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=500&color=884EA0&center=true&vCenter=true&random=false&width=600&height=60&lines=Hey+there!+I'm+Aleena;Full+Stack+AI+Engineer;Agents+%26+DevOps+Specialist;Building.+Breaking.+Learning." alt="Typing SVG" />
-</a>
+# **A L E E N A &nbsp; T A H I R**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=884EA0&center=true&vCenter=true&width=600&height=40&lines=%7B+full+stack+ai+engineer+%7D;%7B+agents+%C2%B7+langchain+%C2%B7+devops+%7D;%7B+turning+ideas+into+shipped+software+%7D" alt="role" />
+
+<br/>
+
+<kbd>&nbsp;ISLAMABAD&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;CCRIPT&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;NEURALOGIC&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;NUTECH&nbsp;</kbd>
 
 </div>
 
@@ -10,30 +14,22 @@
 
 ## About Me
 
-<div align="center">
+```python
+# aleena.py
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" />
+class Aleena:
+    """
+    Full Stack AI Engineer crafting end-to-end intelligent applications —
+    from autonomous agents and smart automations to production-ready
+    web platforms. I turn ideas into software that actually ships.
+    """
 
-<br/>
-<br/>
-
-```diff
-@ profile.aleena
-+ building AI things that actually think
-+ full stack · agents · DevOps
-! shipping code between coffee refills
-# Islamabad, PK → the world
+    location    = "Islamabad, Pakistan"
+    studying    = "BS Artificial Intelligence @ NUTECH"
+    working     = ["CCRIPT Agency", "Neuralogic"]
+    focus       = ["AI Agents", "LangChain", "Full Stack", "DevOps"]
+    status      = "open to new opportunities"
 ```
-
-<br/>
-
-![Based](https://img.shields.io/badge/📍_based_in-Islamabad,_PK-E8DAEF?style=for-the-badge&labelColor=884EA0)
-![Working](https://img.shields.io/badge/💼_working_@-CCRIPT_·_Neuralogic-E8DAEF?style=for-the-badge&labelColor=884EA0)
-![Studying](https://img.shields.io/badge/🎓_studying-BS_AI_@_NUTECH-E8DAEF?style=for-the-badge&labelColor=884EA0)
-![Vibe](https://img.shields.io/badge/🤖_vibing_with-AI_·_Agents_·_DevOps-E8DAEF?style=for-the-badge&labelColor=884EA0)
-![Status](https://img.shields.io/badge/✨_status-available_for_opportunities-E8DAEF?style=for-the-badge&labelColor=884EA0)
-
-</div>
 
 <br/>
 
@@ -57,12 +53,20 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Monday](https://img.shields.io/badge/Monday_CRM-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logo=chroma&logoColor=white)
+![Backblaze B2](https://img.shields.io/badge/Backblaze_B2-E8373D?style=for-the-badge&logo=backblaze&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Showcase IDX](https://img.shields.io/badge/Showcase_IDX-2E7D32?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -89,9 +93,7 @@
 
 <br/><br/>
 
-```text
-   "Talk is cheap. Show me the code."  — Linus Torvalds
-```
+*"Talk is cheap. Show me the code." — Linus Torvalds*
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" />
 
