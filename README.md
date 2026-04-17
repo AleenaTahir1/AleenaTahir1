@@ -6,7 +6,7 @@
 
 <br/>
 
-[![wakatime](https://img.shields.io/badge/✦-building_intelligent_systems_from_islamabad-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
+[![wakatime](https://img.shields.io/badge/✦-building_intelligent_systems-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
 [![wakatime](https://img.shields.io/badge/✦-remote_worldwide-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
 [![wakatime](https://img.shields.io/badge/✦-open_to_opportunities-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
 
