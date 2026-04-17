@@ -1,12 +1,14 @@
 <div align="center">
 
-# **A L E E N A &nbsp; T A H I R**
+<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=55&pause=100&color=884EA0&center=true&vCenter=true&width=700&height=90&lines=aleena+tahir" alt="aleena tahir" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=884EA0&center=true&vCenter=true&width=600&height=40&lines=%7B+full+stack+ai+engineer+%7D;%7B+agents+%C2%B7+langchain+%C2%B7+devops+%7D;%7B+turning+ideas+into+shipped+software+%7D" alt="role" />
+**`{ ai engineer }`** &nbsp; **`{ full stack }`** &nbsp; **`{ rust · tauri }`** &nbsp; **`{ agents }`**
 
 <br/>
 
-<kbd>&nbsp;ISLAMABAD&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;CCRIPT&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;NEURALOGIC&nbsp;</kbd> &nbsp;·&nbsp; <kbd>&nbsp;NUTECH&nbsp;</kbd>
+[![wakatime](https://img.shields.io/badge/✦-building_intelligent_systems_from_islamabad-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
+[![wakatime](https://img.shields.io/badge/✦-remote_worldwide-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
+[![wakatime](https://img.shields.io/badge/✦-open_to_opportunities-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
 
 </div>
 
@@ -19,9 +21,10 @@
 
 class Aleena:
     """
-    Full Stack AI Engineer crafting end-to-end intelligent applications —
-    from autonomous agents and smart automations to production-ready
-    web platforms. I turn ideas into software that actually ships.
+    Full Stack AI Engineer crafting end-to-end intelligent systems —
+    from autonomous agents and smart automations to web platforms
+    and native desktop apps built in Rust + Tauri. I turn ideas into
+    software that actually ships.
     """
 
     location    = "Islamabad, Pakistan"
