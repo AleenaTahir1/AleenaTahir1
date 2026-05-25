@@ -16,23 +16,26 @@
 
 ## About Me
 
-```python
-# aleena.py
+I build AI-powered products that move from idea to working software — autonomous agents, smart automations, full-stack platforms, and native desktop apps with Rust + Tauri.
 
-class Aleena:
-    """
-    Full Stack AI Engineer crafting end-to-end intelligent systems —
-    from autonomous agents and smart automations to web platforms
-    and native desktop apps built in Rust + Tauri. I turn ideas into
-    software that actually ships.
-    """
-
-    location    = "Islamabad, Pakistan"
-    studying    = "BS Artificial Intelligence @ NUTECH"
-    experience  = ["CCRIPT Agency", "Neuralogic"]
-    focus       = ["AI Agents", "LangChain", "Full Stack", "DevOps"]
-    status      = "open to new opportunities"
-```
+<table>
+  <tr>
+    <td><strong>Currently</strong></td>
+    <td>Studying BS Artificial Intelligence at NUTECH</td>
+  </tr>
+  <tr>
+    <td><strong>Building</strong></td>
+    <td>AI agents, LangChain workflows, automations, and production-ready web apps</td>
+  </tr>
+  <tr>
+    <td><strong>Experience</strong></td>
+    <td>CCRIPT Agency · Neuralogic</td>
+  </tr>
+  <tr>
+    <td><strong>Based in</strong></td>
+    <td>Islamabad, Pakistan · open to remote opportunities</td>
+  </tr>
+</table>
 
 <br/>
 
