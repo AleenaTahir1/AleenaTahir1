@@ -1,41 +1,6 @@
-<div align="center">
+## AI Engineer | Full Stack Developer | Agents & Automation Builder | Rust + Tauri
 
-<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=55&pause=100&color=884EA0&center=true&vCenter=true&width=700&height=90&lines=aleena+tahir" alt="aleena tahir" />
-
-**`{ ai engineer }`** &nbsp; **`{ full stack }`** &nbsp; **`{ rust · tauri }`** &nbsp; **`{ agents }`**
-
-<br/>
-
-[![wakatime](https://img.shields.io/badge/✦-building_intelligent_systems-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
-[![wakatime](https://img.shields.io/badge/✦-remote_worldwide-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
-[![wakatime](https://img.shields.io/badge/✦-open_to_opportunities-E8DAEF?style=flat-square&labelColor=884EA0)](https://github.com/AleenaTahir1)
-
-</div>
-
-<br/>
-
-## About Me
-
-I build AI-powered products that move from idea to working software — autonomous agents, smart automations, full-stack platforms, and native desktop apps with Rust + Tauri.
-
-<table>
-  <tr>
-    <td><strong>Currently</strong></td>
-    <td>Studying BS Artificial Intelligence at NUTECH</td>
-  </tr>
-  <tr>
-    <td><strong>Building</strong></td>
-    <td>AI agents, LangChain workflows, automations, and production-ready web apps</td>
-  </tr>
-  <tr>
-    <td><strong>Experience</strong></td>
-    <td>CCRIPT Agency · Neuralogic</td>
-  </tr>
-  <tr>
-    <td><strong>Based in</strong></td>
-    <td>Islamabad, Pakistan · open to remote opportunities</td>
-  </tr>
-</table>
+Artificial Intelligence student and software engineer building practical AI-powered products across web platforms, smart automations, autonomous agents, and native desktop apps. I work with Python, LangChain, full-stack technologies, and Rust + Tauri to turn ideas into reliable software that ships.
 
 <br/>
 
